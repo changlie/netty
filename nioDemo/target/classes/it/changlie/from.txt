@@ -1,0 +1,10 @@
+ private void test1(String filePath) throws Exception {
+        RandomAccessFile aFile = new RandomAccessFile(filePath, "rw");
+        FileChannel inChannel = aFile.getChannel();
+
+        ByteBuffer buf = ByteBuffer.allocate(48);
+
+       FORM TWO
+    }
+
+∆‰√≤≤ª—Ô
